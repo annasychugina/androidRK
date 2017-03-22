@@ -82,6 +82,6 @@ public class ServiceHelper implements ISubscribeOnTerminate, IExchangeRateListen
 
     @Override
     public void onError(String reason) {
-        //Do nothing ¯\_(ツ)_/¯
+        //Do nothing
     }
 }
