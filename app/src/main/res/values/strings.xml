@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android_rk1</string>
+    <string name="save">Сохранить</string>
+    <string name="balance">Баланс</string>
+    <string name="update">Обновить баланс</string>
+    <string name="settings">Настройки</string>
+</resources>
